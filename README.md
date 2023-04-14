@@ -29,3 +29,7 @@
 <br>
 
 ### Реализация алгоритма по пути program/Program.cs
+
+### Добавлена схема
+schema.drawio
+
